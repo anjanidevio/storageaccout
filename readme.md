@@ -16,7 +16,7 @@
 
 [Practice 4: Delete the Resources](#practice-4-delete-the-resources)
 
-## Overview 
+## Overview
 
 Welcome to the Cloud Storage (Object) self-paced lab from Oracle!
 
@@ -50,10 +50,9 @@ can be enlarged by Clicking on them
 
 2- Every User MUST keep below credentials handy.
 
-User Name : {{9599c74b-3e30-24cf-b385-f9c59364604b.output.usernames_list}}
+User Name : {{username}}
 
-Password : {{9599c74b-3e30-24cf-b385-f9c59364604b.output.ui_passwords_list}}
-
+Password :  {{password}}
 
 Compartment Name (Provided Later)
 
@@ -76,11 +75,11 @@ Step 1. Sign in to your account using the below
 
 **credentials (Please type in your credentials):**
 
-**Cloud Tenant** : {{9599c74b-3e30-24cf-b385-f9c59364604b.output.tenancy_name}}
+**Cloud Tenant** : {{tenancy_name}}
 
-**Username**: {{9599c74b-3e30-24cf-b385-f9c59364604b.output.ui_passwords_list}}
+**Username**: {{username}} 
 
-**Password**: {{9599c74b-3e30-24cf-b385-f9c59364604b.output.usernames_list}}
+**Password**: {{password}}
 
 
 
