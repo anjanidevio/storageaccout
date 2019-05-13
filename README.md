@@ -1,2 +1,0 @@
-# storageaccout
-storageaccoutlab
