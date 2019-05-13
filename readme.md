@@ -66,7 +66,7 @@ provided in the content section of the lab
 
 Some screen shots might show the older layout with Services displayed Horizontally or expanded vertically.In Current UI All services can now be accessed by clicking menu.
 
-<img width="800" alt="image001" src="https://github.com/anjanidevio/storageaccout/blob/master/images/1.jpg">
+<img width="800" alt="image001" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/1.jpg">
 
  
 In this section we will login to the OCI console and adjust your screen size (if needed).
@@ -85,7 +85,7 @@ Step 1. Sign in to your account using the below
 
 Step 2. Reduce the browser display size  as needed(Below example is for Chrome). 
 
-<img width="800" alt="image002" src="https://github.com/anjanidevio/storageaccout/blob/master/images/2.png">
+<img width="800" alt="image002" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/2.png">
  
 ## practice 2: Create Object Storage Bucket
 
@@ -93,13 +93,13 @@ In this section we will create Object storage bucket. Using Object storage does 
 
 Step 1. From the OCI Services menu, click Object Storage
 
-<img width="800" alt="image003" src="https://github.com/anjanidevio/storageaccout/blob/master/images/3.png"> 
+<img width="800" alt="image003" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/3.png"> 
  
 Step 2. Select the  correct Compartment (Left side of the OCI console) as shown below.
 
 **Choose Compartment:**  {{4990c081-caee-dae5-1918-2346642fe7ef.output.compartment_name}}
 
-<img width="800" alt="image004"src="https://github.com/anjanidevio/storageaccout/blob/master/images/4.png"> 
+<img width="800" alt="image004" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/4.png"> 
  
 Step 3. Click **Create Bucket,** Fill out the dialog box:
 
@@ -110,7 +110,7 @@ Step 3. Click **Create Bucket,** Fill out the dialog box:
 Step 4. Click **Create Bucket**. 
 
 
-<img width="800" alt="image005" src="https://github.com/anjanidevio/storageaccout/blob/master/images/5.png">
+<img width="800" alt="image005" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/5.png">
 
 **You have now created Object Storage bucket though there are no Objects in it(text filemedia file, image etc). Next wewill go over the steps on how to upload an object and share it for other users to download it.**
  
@@ -120,13 +120,13 @@ In this section we will go over the steps needed to upload an object (text file,
 
 Step 1. Click on the **Apps** icon  and select **Git-Bash** to open a terminal window. 
 
-<img width="800" alt="image006" src="https://github.com/anjanidevio/storageaccout/blob/master/images/6.png"> 
+<img width="800" alt="image006" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/6.png"> 
 
 Change directory to the Downloads folder Enter command:
 
 `$ cd /c/Users/PhotonUser/Downloads`
 
-<img width="800" alt="image007" src="https://github.com/anjanidevio/storageaccout/blob/master/images/7.png> 
+<img width="800" alt="image007" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/7.png> 
   
 
 Step 2. Create a sample file, enter command:
@@ -135,23 +135,23 @@ Step 2. Create a sample file, enter command:
 
  This should create file by the name "samplefile" in the downloads folder.
 
-<img width="800" alt="image008" src="https://github.com/anjanidevio/storageaccout/blob/master/images/8.png"> 
+<img width="800" alt="image008" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/8.png"> 
  
 Step 3. Switch to  OCI console and click the Bucket Name. 
 
-<img width="800" alt="image009" src="https://github.com/anjanidevio/storageaccout/blob/master/images/9.png"> 
+<img width="800" alt="image009" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/9.png"> 
 
 Step 4. The Bucket detail window should be visible. Click Upload Object. 
 
-<img width="800" alt="image010" src="https://github.com/anjanidevio/storageaccout/blob/master/images/10.png"> 
+<img width="800" alt="image010" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/10.png"> 
 
 Step 5. Click  **Browse**. Navigate to This PC > Downloads. You should see the **samplefile** created earlier. Select it and click **Upload Object** in the dialog box. 
 
-<img width="800" alt="image011" src="https://github.com/anjanidevio/storageaccout/blob/master/images/11.png"> 
+<img width="800" alt="image011" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/11.png"> 
 
 Step 6. The file should be visible under **Objects**. Click **Action** icon and click **Create Pre-Authenticated Request**. This will create a web link that can be used to access the object  Without requiring any additional authentication.
 
-<img width="800" alt="image012" src="https://github.com/anjanidevio/storageaccout/blob/master/images/12.png"> 
+<img width="800" alt="image012" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/12.png"> 
  
 Step 7. Fill out the dialog box:
 
@@ -165,7 +165,7 @@ Step 7. Fill out the dialog box:
 
 Step 8. Click **Create Pre-Authenticated Request**
 
-<img width="800" alt="image013" src="https://github.com/anjanidevio/storageaccout/blob/master/images/13.png"> 
+<img width="800" alt="image013" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/13.png"> 
 
 Step 9. Click **Copy** to copy the link
 
@@ -173,17 +173,17 @@ Step 9. Click **Copy** to copy the link
 
 Step 10. Click **Close**.
 
-<img width="800" alt="image014" src="https://github.com/anjanidevio/storageaccout/blob/master/images/14.png"> 
+<img width="800" alt="image014" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/14.png"> 
 
 Step 11. Open a new browser window and paste Pre-Authenticated link.
 
-<img width="800" alt="image015" src="https://github.com/anjanidevio/storageaccout/blob/master/images/15.png"> 
+<img width="800" alt="image015" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/15.png"> 
 
 Step 12: An option to **download** the file will appear.
 
   **NOTE:** Do NOT download the file as due to space restrictions it is not allowed for the purpose of this lab. 
 
-<img width="800" alt="image016" src="https://github.com/anjanidevio/storageaccout/blob/master/images/16.png"> 
+<img width="800" alt="image016" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/16.png"> 
 
 You have uploaded an object to Object Storage bucket, created a pre-authenticated link and successfully accessed the object. The Pre-Authenticated link can be shared with other users to provide them access to the object.Multiple objects of any size can be uploaded to the bucket and shared across teams/users.
 
@@ -191,15 +191,15 @@ You have uploaded an object to Object Storage bucket, created a pre-authenticate
 
 Step 1. From the Object Storage detail window, Click **Pre-Authenticated Requests,** click **Delete,** then Click **OK** in Confirm window.
 
-<img width="800" alt="image017" src="https://github.com/anjanidevio/storageaccout/blob/master/images/17.png"> 
+<img width="800" alt="image017" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/17.png"> 
 
 Step 2. Click **Objects,** Click the **action icon**  , select **Delete,** click OK in the Confirm window.
 
-<img width="800" alt="image018" src="https://github.com/anjanidevio/storageaccout/blob/master/images/18.png"> 
+<img width="800" alt="image018" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/18.png"> 
 
 Step 3.Under Bucket Name, Click **Delete**, then click **OK** in the Confirm window.
 
-<img width="800" alt="image019" src="https://github.com/anjanidevio/storageaccout/blob/master/images/19.png"> 
+<img width="800" alt="image019" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/19.png"> 
  
 ### Conclusion:
 
