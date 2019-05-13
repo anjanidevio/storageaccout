@@ -109,7 +109,7 @@ Step 3. Click **Create Bucket,** Fill out the dialog box:
 
 Step 4. Click **Create Bucket**. 
 
-<img width="800" alt="image005" zsrc="https://github.com/anjanidevio/storageaccout/blob/master/images/5.png"> 
+<img width="800" alt="image005" src="https://github.com/anjanidevio/storageaccout/blob/master/images/5.png"> 
 
 **You have now created Object Storage bucket though there are no Objects in it(text filemedia file, image etc). Next wewill go over the steps on how to upload an object and share it for other users to download it.**
  
