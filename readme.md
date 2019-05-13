@@ -50,9 +50,9 @@ can be enlarged by Clicking on them
 
 2- Every User MUST keep below credentials handy.
 
-User Name : {{username}}
+User Name : 
 
-Password :  {{password}}
+Password :  
 
 Compartment Name (Provided Later)
 
@@ -75,12 +75,11 @@ Step 1. Sign in to your account using the below
 
 **credentials (Please type in your credentials):**
 
-**Cloud Tenant** : {{tenancy_name}}
+**Cloud Tenant** : {{9599c74b-3e30-24cf-b385-f9c59364604b.output.tenancy_name}}
 
-**Username**: {{username}} 
+**Username**: {{9599c74b-3e30-24cf-b385-f9c59364604b.output.usernames_list}}
 
-**Password**: {{password}}
-
+**Password**: {{9599c74b-3e30-24cf-b385-f9c59364604b.output.ui_passwords_list}}
 
 
 
