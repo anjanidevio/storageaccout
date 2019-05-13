@@ -103,9 +103,9 @@ Step 2. Select the  correct Compartment (Left side of the OCI console) as shown 
  
 Step 3. Click **Create Bucket,** Fill out the dialog box:
 
-       3.1 **Bucket Name:** Provide a name (Test-Bucket in this lab)
+ 3.1 **Bucket Name:** Provide a name (Test-Bucket in this lab)
 
-       3.2 **Storage Tier:**  STANDARD
+ 3.2 **Storage Tier:**  STANDARD
 
 Step 4. Click **Create Bucket**. 
 
