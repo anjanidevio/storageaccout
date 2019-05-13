@@ -126,7 +126,7 @@ Change directory to the Downloads folder Enter command:
 
 `$ cd /c/Users/PhotonUser/Downloads`
 
-<img width="800" alt="image007" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/7.png> 
+<img width="800" alt="image007" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/7.png"> 
   
 
 Step 2. Create a sample file, enter command:
