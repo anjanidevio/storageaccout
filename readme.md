@@ -14,15 +14,14 @@
 
 [Practice 3: Upload an Object and Provide Access to the Object](#practice-3-upload-an-object-and-Provide-access-to-the-object)
 
-[Practice 4: Delete the Resources](#practice-4-delete-the-resources)
+
 
 ## Overview:
 
 Welcome to the Cloud Storage (Object) self-paced lab from Oracle!
 
 **How to use the lab interface:**
- 
-[Click here to open the video in a new tab.](https://www.youtube.com/watch?v=FJRnrNMrj3Y)
+
 
 Click **Start** to get started!
 
@@ -45,10 +44,10 @@ Click **Start** to get started!
 
 **Before you Begin:**
 
-1- All screen shots are examples ONLY. Screen shots
+1) All screen shots are examples ONLY. Screen shots
 can be enlarged by Clicking on them
 
-2- Every User MUST keep below credentials handy.
+2) Every User MUST keep below credentials handy.
 
 User Name
 
@@ -58,7 +57,7 @@ Compartment Name (Provided Later)
 
 Cloud Tenant Name
 
-3- Do NOT use compartment name and other data from 
+3) Do NOT use compartment name and other data from 
 screen shots.Only use  data(including compartment name) 
 provided in the content section of the lab
 
@@ -66,9 +65,6 @@ provided in the content section of the lab
 
 Some screen shots might show the older layout with Services displayed Horizontally or expanded vertically.In Current UI All services can now be accessed by clicking menu.
 
-<img width="800" alt="image001" src="https://github.com/sysgain/qloudable-tl-labs/blob/sample-md-files/imges/1.jpg">
-
- 
 In this section we will login to the OCI console and adjust your screen size (if needed).
 
 Step 1. Sign in to your account using the below 
@@ -85,7 +81,6 @@ Step 1. Sign in to your account using the below
 
 Step 2. Reduce the browser display size  as needed(Below example is for Chrome). 
 
-<img width="800" alt="image001" src="https://github.com/sysgain/qloudable-tl-labs/blob/sample-md-files/imges/2.png">
  
 ## practice 2: Create Object Storage Bucket
 
@@ -93,23 +88,15 @@ In this section we will create Object storage bucket. Using Object storage does 
 
 Step 1. From the OCI Services menu, click Object Storage
 
-<img width="800" alt="image001" src="https://github.com/sysgain/qloudable-tl-labs/blob/sample-md-files/imges/3.png"> 
- 
-Step 2. Select the  correct Compartment (Left side of the OCI console) as shown below.
 
-**Choose Compartment:**  {{4990c081-caee-dae5-1918-2346642fe7ef.output.compartment_name}}
+Practice 3: Upload an Object and Provide Access to the Object
 
-<img width="800" alt="image001" src="https://github.com/sysgain/qloudable-tl-labs/blob/sample-md-files/imges/4.png"> 
- 
-Step 3. Click **Create Bucket,** Fill out the dialog box:
+In this section we will go over the steps needed to upload an object (text file, media file, image etc) and how to create a pre-authenticated request so the object is accessible from the internet.
 
-       3.1 **Bucket Name:** Provide a name (Test-Bucket in this lab)
+Step 1. Click on the **Apps** icon  and select **Git-Bash** to open a terminal window. 
 
-       3.2 **Storage Tier:**  STANDARD
 
-Step 4. Click **Create Bucket**. 
 
-<img width="800" alt="image001" zsrc="https://github.com/sysgain/qloudable-tl-labs/blob/sample-md-files/imges/5.png"> 
 
-**You have now created Object Storage bucket though there are no Objects in it(text filemedia file, image etc). Next wewill go over the steps on how to upload an object and share it for other users to download it.**
- 
+
+
