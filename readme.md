@@ -16,7 +16,7 @@
 
 [Practice 4: Delete the Resources](#practice-4-delete-the-resources)
 
-## Overview:
+## Overview 
 
 Welcome to the Cloud Storage (Object) self-paced lab from Oracle!
 
@@ -50,9 +50,10 @@ can be enlarged by Clicking on them
 
 2- Every User MUST keep below credentials handy.
 
-User Name
+User Name : {{9599c74b-3e30-24cf-b385-f9c59364604b.output.usernames_list}}
 
-Password
+Password : {{9599c74b-3e30-24cf-b385-f9c59364604b.output.ui_passwords_list}}
+
 
 Compartment Name (Provided Later)
 
@@ -75,11 +76,14 @@ Step 1. Sign in to your account using the below
 
 **credentials (Please type in your credentials):**
 
-**Cloud Tenant** : {{4990c081-caee-dae5-1918-2346642fe7ef.output.tenancy_name}}
+**Cloud Tenant** : {{9599c74b-3e30-24cf-b385-f9c59364604b.output.tenancy_name}}
 
-**Username**: {{4990c081-caee-dae5-1918-2346642fe7ef.output.usernames_list}}
+**Username**: {{9599c74b-3e30-24cf-b385-f9c59364604b.output.ui_passwords_list}}
 
-**Password**: {{4990c081-caee-dae5-1918-2346642fe7ef.output.ui_passwords_list}}
+**Password**: {{9599c74b-3e30-24cf-b385-f9c59364604b.output.usernames_list}}
+
+
+
 
 **Note**: Your password should be updated automatically for you, but sometimes you may be asked to change it after signing in the first time. If prompted, pleaseupdate the password. You can use this one to expedite things: Oracle123!!!! . It will not be saved after this lab expires.
 
@@ -97,7 +101,7 @@ Step 1. From the OCI Services menu, click Object Storage
  
 Step 2. Select the  correct Compartment (Left side of the OCI console) as shown below.
 
-**Choose Compartment:**  {{4990c081-caee-dae5-1918-2346642fe7ef.output.compartment_name}}
+**Choose Compartment:** {{9599c74b-3e30-24cf-b385-f9c59364604b.output.compartment_name}}
 
 <img width="800" alt="image004" src="https://raw.githubusercontent.com/anjanidevio/storageaccout/master/images/4.png"> 
  
